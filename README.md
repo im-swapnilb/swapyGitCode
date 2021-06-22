@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swapnil
 - 👀 I’m interested in Python, AI and ML
 - 🌱 I’m currently learning ML and AI
-- 💞️ I’m looking to collaborate on Ml projects
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me imswapnilb@gmail.com
 
 <!---
